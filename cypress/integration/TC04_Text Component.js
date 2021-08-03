@@ -8,6 +8,7 @@ describe("SCN01_TextFormatComponent" , function()
   {
     cy.visit("https://www-test.maifm.co.nz/home/Rams_AutomationArticle/text.html")
     cy.wait(2000)
+    cy.wait(2000)
 //Asserting in HTML DOM
    // cy.get('meta[property="og:image"]').should('have.attr','content').and('exist','https://www-test.maifm.co.nz/home/Rams_AutomationArticle/thumbnail-only/_jcr_content/image.dynimg.1280.q75.jpg/v1/2.jpg')
  //   cy.get('.c-ArticleBody').find('p[b]').contains("Bold").should('have.attr','b')
