@@ -3,13 +3,16 @@
 Cypress installation:
 ---------------------
 Download and Install node.js
+
 - Goto node.js official website and download according to the OS windows/Mac
+
 - Install the downloaded version
 
 
 Setup Env variable in Windows OS:
 ---------------------------------
 Step 1: Goto Environment variables and add the below line as a new entry and set the path
+
 NODE_HOME=C:/program files/nodejs.    (Windows OS)
 
 
